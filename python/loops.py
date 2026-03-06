@@ -175,3 +175,7 @@ and multiply odd numbers using for loop
 # print(f"product of the odd numbers are :{prod}")
 # 1--->1
 # 2--->2
+
+
+for x in range(3):
+    print('hello')

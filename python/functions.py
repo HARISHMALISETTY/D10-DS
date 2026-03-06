@@ -254,3 +254,4 @@ def fun1():
     print('iam function1'):
 
 fun1()
+fun1('hello')

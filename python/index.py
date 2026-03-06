@@ -95,3 +95,5 @@ print(op)
 
 
 "iam karan, came to hyd and joined in 10000 coders for datascience course"
+def fun2():
+    pass
