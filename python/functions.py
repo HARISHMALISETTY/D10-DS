@@ -249,3 +249,8 @@ palindrome('level')
 palindrome('markram')
 
 #implement logics for perfect number and perfect square using functions
+
+def fun1():
+    print('iam function1'):
+
+fun1()
