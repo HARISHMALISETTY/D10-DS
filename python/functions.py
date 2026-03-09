@@ -359,10 +359,10 @@ demo(lambda:5,lambda:6,lambda:7)
 #due to all above features, we can say functions in python can be considered as a
 #first-class functions
 
-x22=[1,2,3,lambda:'hello world',6,7,'helloo']
+# x22=[1,2,3,lambda:'hello world',6,7,'helloo']
 
-dict22={'name':'kiran','behaviour':lambda bh:bh,'city':'hyderabad'}
+# dict22={'name':'kiran','behaviour':lambda bh:bh,'city':'hyderabad'}
 
-print(x22[3]())
-print(dict22['behaviour']('worst'))
-print(dict22['behaviour']('innocent'))
+# print(x22[3]())
+# print(dict22['behaviour']('worst'))
+# print(dict22['behaviour']('innocent'))
