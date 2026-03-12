@@ -36,10 +36,10 @@ a b c
 a b c
 """
 
-for y in range(3):
-    for x in range(3):
-        print(chr(x+97),end=' ')
-    print()
+# for y in range(3):
+#     for x in range(3):
+#         print(chr(x+97),end=' ')
+#     print()
 
 
 # y-->1
@@ -72,3 +72,4 @@ ABC
 BCD
 CDE
 """
+
